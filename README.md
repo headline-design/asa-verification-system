@@ -26,12 +26,9 @@ Tier 3:
 Tier 4: 
 1. Algorand Foundation grant in-progress.
 2. 1 referral from a Tier 5 project.
-3. Age - 4 months since mint.
-4. Meet minimum project-age reqs.
 5. Meet minimum doxx reqs.
  
 (highest tier)
 Tier 5: 
 1. Algorand Foundation grant or Foundation/Inc investment or listing on CEX.
-2. Meet minimum project-age reqs.
 3. Meet minimum doxx reqs.
